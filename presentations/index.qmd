@@ -1,0 +1,20 @@
+---
+title: "My Presentations"
+format:
+  html:
+    css: styles.css
+---
+
+![](images/AACR_poster.JPG){fig-align="center" width="60%"}
+
+## Poster Presentations
+
+---
+
+**Michael Acquazzino** and Jason Ear. Characterizing Signaling and Localization of Daple-FLT3 Gene Fusions in Leukemia Cells. California State Polytechnic University Pomona, 2024 College of Science Research Symposium, April 2024.
+
+**Michael Acquazzino** and Jason Ear. Characterizing Signaling and Localization of Daple-FLT3 Gene Fusions in Leukemia Cells. 2024 Annual Meeting of the American Association for Cancer Research (AACR), April 2024.
+
+**Michael Acquazzino** and Jason Ear. Daple-FLT3 Causes Tyrosine Kinase Domain Activation and Subcellular Localization. California State Polytechnic University Pomona, 2023 College of Science Research Symposium, April 2023.
+
+**Michael Acquazzino** and Jason Ear. Daple-FLT3 Causes Tyrosine Kinase Domain Activation and Subcellular Localization. 20th Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS), November 2022.

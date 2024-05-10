@@ -1,0 +1,47 @@
+---
+title: "My Experience"
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
+---
+
+# Teaching, Mentoring, and Training Experience
+
+---
+
+**Teaching Associate**\
+*BIO2340L Human Anatomy Lab (F22, F23)*\
+*BIO4320L Molecular Biology Techniques Lab (SP23, SP24)*\
+Department of Biological Sciences\
+California State Polytechnic University, Pomona\
+Aug 2022 - May 2024
+
+**Training of Graduate and Undergraduate Lab Members**\
+*Jason Ear Lab*\
+Department of Biological Sciences\
+California State Polytechnic University, Pomona\
+Aug 2022 - May 2024
+
+**High School Math and Science Tutor**\
+Middle Tree, Inc. | Claremont, CA\
+March 2020 - June 2021
+
+# Work Experience
+
+---
+
+**Graduate Assistant - Biology Stockroom**\
+Department of Biological Sciences\
+California State Polytechnic University, Pomona\
+Aug 2023 - May 2024
+
+# Additional Experience
+
+----
+
+**Shift Lead/Assistant Manager**\
+Jimmy Johns | La Verne, CA\
+July 2018 - Aug 2022
+ 

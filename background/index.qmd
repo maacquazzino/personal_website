@@ -1,0 +1,48 @@
+---
+title: "My Background"
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
+---
+
+# Technical Laboratory Skills
+
+------------------------------------------------------------------------
+
+**Mammalian Cell Culture**\
+List of skills
+
+**Microscopy**\
+List of skills
+
+**Cell and Molecular Biology Techniques**\
+List of skills
+
+# Education
+
+------------------------------------------------------------------------
+
+**Master of Science in Biological Sciences**\
+*Emphasis in Cell and Molecular Biology*\
+California State Polytechnic University, Pomona\
+Aug 2022 - May 2024
+
+**Bachelor of Science, Major in Biology, Minor in Chemistry**\
+*Emphasis in Genetics and Molecular Cell Biology*\
+California State Polytechnic University, Pomona\
+Aug 2020 - May 2022
+
+**Associate of Science for Transfer in Biology**\
+Citrus College \| Glendora, CA\
+Aug 2016 - June 2020
+
+# Professional Membership
+
+------------------------------------------------------------------------
+
+**American Association for Cancer Research (AACR)** – Associate Member (since 2023)
+
+**American Society for Cell Biology (ASCB)** – Graduate Student Member (since 2022)
+

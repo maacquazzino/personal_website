@@ -1,0 +1,73 @@
+# This file controls the settings for your Quarto template
+
+# website settings
+website:
+  title: "Michael Acquazzino"                                # Michael Acquazzino
+  description: "Michael is a prospective researcher"   # A brief slogan (optional)
+  image: img/my_image.jpg
+  
+  favicon: img/favicon.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/logo.png
+    
+    # your sub-pages
+    left:
+      - text: "Background"
+        href: background/index.qmd
+      - text: "Experience"
+        href: experience/index.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Presentations"
+        href: presentations/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+    
+    # your social media handles
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/michael-acquazzino-030857296/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:mail.maacquazzino@cpp.edu"  
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2024 Michael Acquazzino CC BY-SA 4.0</span>
+    right: |
+      <span class="faux-block"> Science Rules </a></span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

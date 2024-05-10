@@ -1,0 +1,28 @@
+---
+about:
+  template: marquee
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/michael-acquazzino-030857296/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.maacquazzino@cpp.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+My name is Michael Acquazzino, a Master's degree candidate at Cal Poly Pomona.
+
+<p> My research interests include modeling diseases, discovering mechanisms of disease, and solving biomedical problems. In particular, I am interested in cancer and discovering the mechanisms that drive cancer such that novel discoveries can be used to develop new therapeutic strategies. Cancer fascinates me because of how individual the disease truly is, since it *is* the individual. This is in part why it can be difficult to treat and is why it is important to me to have the ability to perform work that could potentially improve the quality of life for an individual with cancer. To me, research such as this is impactful even if it only helps one individual, but hopefully it can help many more.
+
+Beyond the bench, I greatly enjoy being a mentor and teacher. My time as a graduate student at Cal Poly Pomona has afforded me the opportunity to teach students from diverse backgrounds in Human Anatomy and Molecular Biology Techniques. It has also given me the privilege to train fellow lab members in fundamental molecular lab techniques and assist them in their work. As a future professor, I wish to continue to have the ability to make an impact on students and colleagues by helping to create an inclusive and supportive scientific community.
+
+My career goal is to become a professor so that I can continue to work alongside and train students in molecular biology at the same time as performing research to improve to patient quality of life by making novel discoveries about disease mechanisms.
+
+On this website, you will find a sample of the research I have been a part of. You can also find out more about my background and download my current CV. Please feel free to [contact me](mailto:mail.maacquazzino@cpp.edu) if you have any questions. At the moment, I am interested in job inquiries. </p>
